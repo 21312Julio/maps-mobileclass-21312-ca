@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <meta-data
+<meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDraq7BMvx4kaLV3Am0PO2U8gihXmFGo1E"/>
 

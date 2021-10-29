@@ -67,8 +67,8 @@ export class HomePage {
   draw() {
     const points: LatLng[] = [
       {
-        latitude: 51.88,
-        longitude: 7.60,
+        latitude: 51,
+        longitude: 7,
       },
       {
         latitude: 55,
