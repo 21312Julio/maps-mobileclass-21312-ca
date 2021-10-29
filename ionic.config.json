@@ -1,0 +1,7 @@
+{
+  "name": "maps-mobileclass-21312-ca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
